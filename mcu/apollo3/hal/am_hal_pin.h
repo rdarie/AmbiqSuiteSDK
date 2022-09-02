@@ -248,7 +248,7 @@
 #define AM_HAL_PIN_23_GPIO        (3)
 #define AM_HAL_PIN_23_I2SWCLK     (4)
 #define AM_HAL_PIN_23_CMPOUT      (5)
-#define AM_HAL_PIN_23_MSPI13      (6)
+#define AM_HAL_PIN_23_MSPI3       (6)
 #define AM_HAL_PIN_23_EXTXT       (7)
 
 #define AM_HAL_PIN_24_UART1TX     (0)
